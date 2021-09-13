@@ -10,3 +10,7 @@ El llenado de la matriz esta dado por Z:
 ## Overview
 
 ![image](https://github.com/BrandonMartinez-jar/SpringBoot-exercise/blob/main/src/main/resources/Captura.PNG)
+
+una vez desplegada la apliación el la maquina local
+
+[Link de prueba](http://localhost:3000/matrix?R=4&C=3&X=1&Y=2&Z=2)
